@@ -132,7 +132,7 @@
                         <!-- Client Start -->
                         <li class="group">
                             @canany(['isAdmin', 'isMarketing'])
-                                <a class="nav-a ml-[40px] border-t-[1px]" href="#">
+                                <a class="nav-a ml-[40px] border-t-[1px]" href="/marketing">
                                     <svg class="nav-svg" role="img" xmlns="http://www.w3.org/2000/svg"
                                         viewBox="0 0 24 24">
                                         <path
